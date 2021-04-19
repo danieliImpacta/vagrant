@@ -17,7 +17,7 @@ Subir uma máquina virtual, usando Vagrant, com MySQL instalado e que esteja ace
 * Ter instalado uma máquina virtual (VirtualBox);
 
 #### Como Executar:::
-* 1º - Efetue o clone do projeto com o seguinte comando: git clone vagrant;
+* 1º - Efetue o clone do projeto com o seguinte comando: git clone https://github.com/danieliImpacta/vagrant.git;
 * 2º - Na pasta do projeto abra o terminal e digite vagrant init;
 * 3º - Após iniciar o Vagrant, no terminal digite vagrant up para efetuar a instalação;
 * 4º - A seguir digite vagrant ssh para acessar o terminal do linux.
